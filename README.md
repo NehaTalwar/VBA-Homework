@@ -1,2 +1,2 @@
 # VBA-Homework
-VBA solutions easy , moderate
+VBA solutions easy 
